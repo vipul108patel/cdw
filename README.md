@@ -1,4 +1,4 @@
-## CDW using [FastAPI](https://fastapi.tiangolo.com/) , [Uvicorn](https://www.uvicorn.org/#introduction) , [Docker]('https://www.docker.com/')
+## CDW using [FastAPI](https://fastapi.tiangolo.com/) , [Uvicorn](https://www.uvicorn.org/#introduction) and [Docker]('https://www.docker.com/')
 
 
 ### FastAPI
